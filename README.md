@@ -26,5 +26,3 @@ Backend-Developer-Technical-Assessment/
 ```
 # Good luck! We're excited to see what you build!
 ***Remember: We're not expecting perfection. We want to see how you think, code, and solve problems.***
-
-Test
